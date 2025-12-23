@@ -1,0 +1,66 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a2bfbea0-d5f2-42a9-9f8e-71fb4081dbd9")
+	(paper "A4")
+	(lib_symbols)
+	(bus
+		(pts
+			(xy 127 50.8) (xy 177.8 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35de5cbb-ea69-4c05-94ff-6f4e06defa70")
+	)
+	(sheet
+		(at 210.82 35.56)
+		(size 43.18 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8dc63db3-bdf2-4beb-8698-0f2866d48a1a")
+		(property "Sheetname" "Switches"
+			(at 210.82 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Switches.kicad_sch"
+			(at 210.82 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KB01"
+				(path "/a2bfbea0-d5f2-42a9-9f8e-71fb4081dbd9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
